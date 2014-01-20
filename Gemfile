@@ -35,10 +35,11 @@ end
 gem 'devise'
 gem 'acts_as_shopping_cart', '~> 0.2.0'
 
+gem 'foundation-rails'
+
 group :test, :development do 
   gem 'capybara'
   gem 'rspec-rails'
-  gem 'foundation'
   gem 'valid_attribute'
   gem 'factory_girl_rails'
   gem 'shoulda-matchers'
