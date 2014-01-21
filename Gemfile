@@ -37,6 +37,8 @@ gem 'acts_as_shopping_cart', '~> 0.2.0'
 
 gem 'foundation-rails'
 
+gem 'httparty'
+
 group :test, :development do 
   gem 'capybara'
   gem 'rspec-rails'
