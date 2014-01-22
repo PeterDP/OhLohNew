@@ -14,6 +14,8 @@
 //= require jquery_ujs
 //= require foundation
 //= require turbolinks
+//= require customize_shirt
+//= require kinetic.min
 //= require_tree .
 
 $(function(){ $(document).foundation(); });
